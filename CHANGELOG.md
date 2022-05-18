@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 1.2.5-rcc
+Changes:
+- 最低 Ruby 版本要求降为 2.5.1
+
 ## 1.2.4
 
 Changes:
