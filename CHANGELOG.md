@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 1.2.6-rcc
+Changes:
+- 最低 Ruby 版本要求降为 2.4.1
+- plugin/metrics.rb 中 添加 launcher.events 对 on_stopped 的判断。
 ## 1.2.5-rcc
 Changes:
 - 最低 Ruby 版本要求降为 2.5.1

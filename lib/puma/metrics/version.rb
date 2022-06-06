@@ -2,6 +2,6 @@
 
 module Puma
   module Metrics
-    VERSION = '1.2.5-rcc'
+    VERSION = '1.2.6-rcc'
   end
 end
