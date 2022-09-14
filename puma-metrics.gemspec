@@ -19,7 +19,7 @@ Gem::Specification.new do |spec|
 
   spec.metadata['rubygems_mfa_required'] = 'false'
 
-  spec.required_ruby_version = '>= 2.4.1'
+  spec.required_ruby_version = '>= 2.3.0'
 
   spec.add_runtime_dependency 'prometheus-client', '>= 0.10'
   spec.add_runtime_dependency 'puma', '>= 3.0'

@@ -1,6 +1,9 @@
 # Changelog
 
-## Unreleased
+
+## 1.2.7-rcc
+Changes:
+- 最低 Ruby 版本要求降为 2.3.0
 
 ## 1.2.6-rcc
 Changes:
